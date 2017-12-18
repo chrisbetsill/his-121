@@ -46,7 +46,7 @@ a, a:hover { color:#d8450b; }
 
 /***** Misc *****/
 i {margin-right: 3px;}
-p {margin-bottom: 20px;}
+p {margin-bottom: 20px; text-align:justify;}
 blockquote {
 	font-size:16px; 
 	line-height:24px; 
